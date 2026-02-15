@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         WarIn.Space - Perfect 1:1 Radar (Lag Fixed)
+// @name         Radar showing other ships
 // @description  adds enemies to the radar (real positions too :D)
 // @version      8.2
 // @match        http://warin.space/*
